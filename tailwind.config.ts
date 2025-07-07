@@ -11,7 +11,7 @@ export default {
     extend: {
       fontFamily: {
         body: ['var(--font-inter)', 'sans-serif'],
-        headline: ['var(--font-roboto-slab)', 'serif'],
+        headline: ['var(--font-lexend)', 'sans-serif'],
       },
       colors: {
         background: 'hsl(var(--background))',
