@@ -73,7 +73,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <motion.div initial={{ opacity: 0, x: -20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true, amount: 0.5 }} transition={{ duration: 0.6 }}>
               <Image
-                src="https://placehold.co/600x400.png"
+                src="/shot.jpg"
                 alt="Dashboard screenshot"
                 width={600}
                 height={400}
